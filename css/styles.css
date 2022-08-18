@@ -22,6 +22,8 @@
   box-shadow:inset 0px 1px 0px 0px rgba(170, 194, 214, 1);
   text-shadow:inset 0px 1px 0px #528ecc;
   background:linear-gradient(rgba(74, 144, 226, 1), rgba(55, 214, 229, 1));
+    postion: absolute;
+    right:5%;
 }
 
 .buttonClass:hover {
@@ -165,4 +167,5 @@ a:hover {
 }
 .boy {
     text-decoration:none;
+    text-align:center;
 }
