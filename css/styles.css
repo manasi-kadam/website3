@@ -22,8 +22,7 @@
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   position: absolute;
-  right:1%;
-  top:5px;
+    margin: 0 auto 0 auto;
 }
 
 .buttonClass:hover {
@@ -124,8 +123,9 @@ body {
 }
 .contact {
     position:absolute;
-    top: 180px;
-    left:40%;
+    top:5px;
+    
+    right:3%;
 }
 .end-body {
     background-color:darkcyan;
