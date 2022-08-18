@@ -39,20 +39,19 @@
 }
 .manasi {
     display:block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 0 auto;
     border-radius: 100%;
   }
 .man {
     position: absolute;
     right:25%;
-    top:35%;
+    top:50%;
 
 }
 
 .web {
     position: absolute;
-    top:58%;
+    top:78%;
    
     float: left;
     margin-left: 20%;
@@ -61,7 +60,7 @@
 .mob {
     position: absolute;
     right: 25%;
-    top:73%;
+    top:93%;
 }
 body {
     background-color:lightcyan;
@@ -72,7 +71,7 @@ body {
     height: 300px;
     width: 100%;
     position: absolute;
-    top: 2000px;
+    top: 2200px;
 }
 .contact {
     position:absolute;
@@ -84,7 +83,7 @@ body {
     height: 150px;
     width: 100%;
     position: absolute;
-    top:2300px;
+    top:2500px;
     text-align: center;
 }
 h1 {
