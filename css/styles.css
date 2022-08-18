@@ -168,5 +168,9 @@ hr {
     border-color: grey;
     border-width: 10px;
 }
+a:hover {
+    color:white;
+    text-decoration:none;
+}
 
    
