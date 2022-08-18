@@ -30,51 +30,61 @@
 }
 .middle-body {
     background-color: azure;
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     position: absolute;
     top:845px;
 
+
 }
+.manasi {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+  }
 .man {
     position: absolute;
-    right: 25%;
-    top:100px;
+    right:25%;
+    top:35%;
+
 }
 
 .web {
     position: absolute;
-    top: 400px;
-    left: 20%;
+    top:58%;
+   
+    float: left;
+    margin-left: 20%;
     }
 
 .mob {
     position: absolute;
     right: 25%;
-    top:700px;
+    top:73%;
 }
 body {
     background-color:lightcyan;
-    margin: 0 50 0 50;
+
 }
 .bottom-body {
     background-color: ghostwhite;
     height: 300px;
     width: 100%;
     position: absolute;
-    top: 1800px;
+    top: 2000px;
 }
 .contact {
     position:absolute;
     top: 180px;
-    left: 40%;
+    left:40%;
 }
 .end-body {
     background-color:darkcyan;
     height: 150px;
     width: 100%;
     position: absolute;
-    top:2100px;
+    top:2300px;
     text-align: center;
 }
 h1 {
