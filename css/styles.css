@@ -22,7 +22,8 @@
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   position: absolute;
-  right:3%;
+  right:1%;
+  top:5px;
 }
 
 .buttonClass:hover {
