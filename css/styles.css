@@ -39,28 +39,44 @@
 }
 .manasi {
     display:block;
-    margin: 0 auto 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 100%;
+  }
+  .text-1 {
+    position: absolute;
+    left: 5%;
+    top:43%;
+
   }
 .man {
     position: absolute;
-    right:25%;
-    top:50%;
+    right:20%;
+    top:43%;
 
 }
-
+.text-2 {
+    position: absolute;
+    right: 5%;
+    top:66%;
+}
 .web {
     position: absolute;
-    top:78%;
+    top:66%;
    
     float: left;
-    margin-left: 20%;
+    margin-left: 15%;
     }
+
+.text-3 { position: absolute;
+    left: 5%;
+    top:83%;
+   }
 
 .mob {
     position: absolute;
     right: 25%;
-    top:93%;
+    top:83%;
 }
 body {
     background-color:lightcyan;
@@ -71,7 +87,7 @@ body {
     height: 300px;
     width: 100%;
     position: absolute;
-    top: 2200px;
+    top: 2040px;
 }
 .contact {
     position:absolute;
@@ -83,7 +99,7 @@ body {
     height: 150px;
     width: 100%;
     position: absolute;
-    top:2500px;
+    top:2340px;
     text-align: center;
 }
 h1 {
