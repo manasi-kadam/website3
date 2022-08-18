@@ -5,6 +5,30 @@
     top: 0;
     background-color:aliceblue;
 }
+
+.buttonClass {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#84bbf3;
+  font-weight:bold;
+  border-top-left-radius:6px;
+  border-top-right-radius:6px;
+  border-bottom-left-radius:6px;
+  border-bottom-right-radius:6px;
+  box-shadow:inset 0px 1px 0px 0px rgba(170, 194, 214, 1);
+  text-shadow:inset 0px 1px 0px #528ecc;
+  background:linear-gradient(rgba(74, 144, 226, 1), rgba(55, 214, 229, 1));
+}
+
+.buttonClass:hover {
+  background: linear-gradient(rgba(55, 214, 229, 1), rgba(74, 144, 226, 1));
+}
+   
+
 .main-body{
     background-color:lightcyan;
     margin: 0 0 0 0;
@@ -134,4 +158,11 @@ hr {
     width: 5%;
     border-color: grey;
     border-width: 10px;
+}
+
+a:hover {
+    color: white;
+}
+.boy {
+    text-decoration:none;
 }
