@@ -38,19 +38,19 @@
 }
 .man {
     position: absolute;
-    right: 300px;
+    right: 25%;
     top:100px;
 }
 
 .web {
     position: absolute;
     top: 400px;
-    left: 250px;
+    left: 20%;
     }
 
 .mob {
     position: absolute;
-    right: 300px;
+    right: 25%;
     top:700px;
 }
 body {
@@ -67,7 +67,7 @@ body {
 .contact {
     position:absolute;
     top: 180px;
-    left: 625px;
+    left: 40%;
 }
 .end-body {
     background-color:darkcyan;
